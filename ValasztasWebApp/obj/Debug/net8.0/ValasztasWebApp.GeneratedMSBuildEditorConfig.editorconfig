@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gyarmati.csanad\source\repos\ValasztasWebApp\ValasztasWebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/gyarmati.csanad/source/repos/ValasztasWebApp/ValasztasWebApp/Pages/AdatokFeltoltese.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRhdG9rRmVsdG9sdGVzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gyarmati.csanad/source/repos/ValasztasWebApp/ValasztasWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
