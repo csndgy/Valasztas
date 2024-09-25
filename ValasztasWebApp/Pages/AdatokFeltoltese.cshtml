@@ -2,3 +2,10 @@
 @model ValasztasWebApp.Pages.AdatokFeltolteseModel
 @{
 }
+
+<h1>Adatok Feltöltése</h1>
+<form method="post" enctype="multipart/form-data">
+    <label asp-for="UploadFile">Add meg a...</label>
+    <input type="file" asp-for"UploadFile"/>
+<input type="submit" value="Feltöltés"/>
+</form>
